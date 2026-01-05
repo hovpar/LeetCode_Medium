@@ -1,0 +1,15 @@
+# Eclipse
+.settings/
+bin/
+*.class
+*.prefs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.jar
+*.war
+*.ear
